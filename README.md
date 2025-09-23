@@ -10,7 +10,7 @@ It includes:
 # HOW TO USE :
 1. Clone the repository to your local machine.
 2. Create a virtual environment using the command **python -m venv venv** and then activate it using **venv\Scripts\activate**
-3. Install dependencies using **pip install -r requirements.txt**
+3. Move to the app folder using **cd app** and Install dependencies using **pip install -r requirements.txt**
 4. Once everything is installed, you can run the app with **streamlit run app/main.py**
 
 # Second Option : DOCKER
