@@ -17,5 +17,5 @@ It includes:
 You can also run the app inside Docker:
 1. Open your Docker Desktop App and ensure that it is activated
 2. Build the Docker image using **docker build -t face-mask-detection .**
-3. Run a container from the image using **docker run -p 8501:8501 face-mask-detection**
+3. Run a container from the image using **docker run -p 8501:80 face_mask_detection_app:v1.0**
 You can now run the app through the Local URL **localhost:8501**
